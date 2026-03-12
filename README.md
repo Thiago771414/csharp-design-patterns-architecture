@@ -241,4 +241,6 @@ Concepts covered:
 # Author
 
 Thiago Reis Lima
+```bash
 https://www.linkedin.com/in/thiago-lima-2a5896166
+```

@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/design patterns architecture.png" width="900">
+</p>
+
+---
+
 # Overview
 
 This repository demonstrates the implementation of several **classic software design patterns using C# and object-oriented programming principles**.
